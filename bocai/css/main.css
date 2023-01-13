@@ -21,7 +21,7 @@
 }
 /* log右侧的导航栏 */
 .top-midd-nav{
-    width: 400px;
+    width: 500px;
     height: 60px;
     background-color: aquamarine;
     float: left;
@@ -43,3 +43,21 @@
     background-color: blue;
     float: right;
 }
+/*  */
+.nav-li{
+    height: 60px;
+
+    padding: 0 10px;
+    line-height: 60px;
+    color: #222222;
+    font-size: 18px;
+    text-decoration: none;
+    float: left;
+}
+
+
+  
+  
+  
+  
+  
